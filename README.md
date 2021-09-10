@@ -1,10 +1,10 @@
 ### Hello everybody, I'm Brenda 👋
 I am a student with a passion for technology and creation! My creativity goes beyond what you expect!
 
-<div display="flex">
+<div>
   <a href="https://github.com/BSantiago07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BSantiago07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSantiago07&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BSantiago07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSantiago07&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
