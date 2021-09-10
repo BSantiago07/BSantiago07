@@ -3,12 +3,16 @@ I am a student with a passion for technology and creation! My creativity goes be
 
 <div>
   <a href="https://beacons.ai/BSantiago07>
-  <img href="180em" src="htps://github-readme-stats.vercel.app/api?username=BSantiago07&show_icons=true&theme=radical&include_all_commits=true)"/>
-  <img href="180em" src="htps://github-readme-stats.vercel.app/api/top-langs/?username=BSantiago07&layout"compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BSantiago07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSantiago07&layout"compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brenda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascipt/javascript-plain.svg">
+  <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
 </div>
