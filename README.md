@@ -1,7 +1,7 @@
 ### Hello everybody, I'm Brenda ✨
 I am a student with a passion for technology and creation! My creativity goes beyond what you expect!
 
-<!-- <div>
+<div>
   <a href="https://github.com/BSantiago07">
   <img height="182em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BSantiago07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSantiago07&layout=compact&langs_count=16&theme=radical"/>
@@ -15,7 +15,7 @@ I am a student with a passion for technology and creation! My creativity goes be
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div> -->
+</div>
 
 <br>
 
