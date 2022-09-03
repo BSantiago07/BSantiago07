@@ -18,7 +18,7 @@ I am a student with a passion for technology and creation! My creativity goes be
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Brenda-pic" height="185" style="border-radius:50px;" src="https://i.pinimg.com/originals/72/9e/c3/729ec3f1da6b269a1f406427962728d2.png">
+  <img align="right" alt="Brenda-pic" height="185" style="border-radius:50px;" src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
 </div>
 
 <br>
