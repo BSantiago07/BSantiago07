@@ -15,7 +15,7 @@ I am a student with a passion for technology and creation! My creativity goes be
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Brenda-pic" height="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/ba/78/cb/ba78cbd1a0ebb8a81aa72f871a1f8222.png">
+  <img align="right" alt="Brenda-pic" height="350" style="border-radius:50px;" src="https://i.pinimg.com/originals/ba/78/cb/ba78cbd1a0ebb8a81aa72f871a1f8222.png">
 </div>
 
 <br>
