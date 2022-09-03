@@ -11,6 +11,7 @@ I am a student with a passion for technology and creation! My creativity goes be
   
 <div style="display: inline_block">
   <h5>➤ Technologies: </h5>
+    <img align="right" alt="Brenda-pic" height="185" style="border-radius:50px;" src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
   <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brenda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -18,7 +19,7 @@ I am a student with a passion for technology and creation! My creativity goes be
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Brenda-pic" height="185" style="border-radius:50px;" src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
+
 </div>
 
 <br>
