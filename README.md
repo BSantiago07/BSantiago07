@@ -10,7 +10,7 @@ I am a student with a passion for technology and creation! My creativity goes be
   ##
   
 <div style="display: inline_block">
-   <img align="left" alt="Brenda-pic" height="185" style="border-radius:50px;" 
+   <img align="left" alt="Brenda-pic" height="195" style="border-radius:50px;" 
    src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
   <h5>➤ Technologies: </h5>
   <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
