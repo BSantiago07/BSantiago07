@@ -6,6 +6,8 @@ I am a student with a passion for technology and creation! My creativity goes be
   <img height="182em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BSantiago07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="178em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSantiago07&layout=compact&langs_count=16&theme=radical"/>
 </div>
+  
+  ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
