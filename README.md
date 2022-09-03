@@ -12,7 +12,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 <div style="display: inline_block">
    <img align="left" alt="Brenda-pic" height="200" style="border-radius:50px;" 
    src="https://static.wikia.nocookie.net/oclubedaswinx/images/d/d6/Tecna_Charmix.png/revision/latest?cb=20141224152310&path-prefix=pt-br">
-  <h5>➤ Technologies: </h5>
+  <h3>➤ Technologies: </h3>
   <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brenda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brenda-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -26,7 +26,7 @@ I am a student with a passion for technology and creation! My creativity goes be
 <br>
 
 <div>
-  <h5>➤ Social Networks: </h5>
+  <h3>➤ Social Networks: </h3>
   <a href="mailto:brendamirelle@gmail.com"> <img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/brenda-santiago-90a263203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
   <a href="https://www.instagram.com/bsantiago.css/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
