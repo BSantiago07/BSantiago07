@@ -24,10 +24,10 @@ I am a student with a passion for technology and creation! My creativity goes be
 
 <div>
   <h5>➤ Social Networks: </h5>
+  <img align="left" alt="Brenda-pic" height="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/72/9e/c3/729ec3f1da6b269a1f406427962728d2.png">
   <a href="mailto:brendamirelle@gmail.com"> <img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/brenda-santiago-90a263203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
   <a href="https://www.instagram.com/bsantiago.css/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a>
-    <img align="right" alt="Brenda-pic" height="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/ba/78/cb/ba78cbd1a0ebb8a81aa72f871a1f8222.png">
 </div>
 
 ![Snake animation](https://github.com/BSantiago07/BSantiago07/blob/output/github-contribution-grid-snake.svg)
